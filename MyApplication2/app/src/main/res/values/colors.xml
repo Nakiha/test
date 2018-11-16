@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#343C51</color>
+    <color name="透明">#00000000</color>
+    <color name="主标题">#343C51</color>
+    <color name="副标题">#4E5C7A</color>
+    <color name="可忽略标题">#687AA3</color>
+    <color name="APP亮色">#63D0D5</color>
+    <color name="APP主色">#4D8EE0</color>
+    <color name="浅色背景">#E7EEF6</color>
+
+</resources>
